@@ -1,7 +1,7 @@
 # MusicPlayer
 Music Player App
 
-This is a Music Player app built using Swift and the MVVM architecture. The app allows users to manage their music collection directly from their iPhone storage, with both mini and full-player modes for a seamless listening experience.
+This is a Music Player app built using Swift,SwiftUI and the MVVM architecture. The app allows users to manage their music collection directly from their iPhone storage, with both mini and full-player modes for a seamless listening experience.
 
 Features
 
